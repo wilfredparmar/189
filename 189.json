@@ -1,24 +1,22 @@
 [
 	{
-		"name": "Pack 1-1 NS",
-		"author": "Jahir Fiquitiva",
-		"url": "https://images3.alphacoders.com/968/thumb-1920-9687.jpg",
-		"thumbnail": "https://images3.alphacoders.com/968/thumb-1920-9687.jpg",
-		"collections": "Pack 1",
-		"downloadable": false,
-		"size": ,
-		"dimensions": "1280 x 720 px",
-		"copyright": ""
-	},
-	{
 		"name": "My wallpaper",
 		"author": "Jahir Fiquitiva",
-		"url": "https://images3.alphacoders.com/968/thumb-1920-9687.jpg",
-		"thumbnail": "https://images3.alphacoders.com/968/thumb-1920-9687.jpg",
-		"collections": "Pack 1",
-		"downloadable": false,
-		"size": ,
+		"url": "http://www.freepngimg.com/download/fire/5-fire-png-image.png",
+		"thumbnail": "http://www.freepngimg.com/download/fire/5-fire-png-image.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
 		"dimensions": "1280 x 720 px",
-		"copyright": ""
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "http://www.freepngimg.com/download/fire/5-fire-png-image.png",
+		"thumbnail": "http://www.freepngimg.com/download/fire/5-fire-png-image.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
 ]
